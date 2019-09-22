@@ -1,0 +1,59 @@
+body {
+    padding:0px;
+    margin:0px;
+   
+}
+
+.content {
+    width:1024px;
+    height:100vh;
+    background: url('background.png') no-repeat center;
+    background-size: cover;
+    margin:0 auto;
+  
+}
+.content-title {
+    position: relative;
+    top:50px;
+    font-size:27px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.my-photo {
+    width:250px;
+    height:250px;
+    left:0px;
+    border-radius: 20px;
+    margin-bottom:30px;
+}
+
+.resume-block {
+    width:80%;
+    height: 100%;
+    margin:0 auto;
+  
+    position: relative;
+    margin-top:100px;
+}
+
+.text-element {
+    font-size:19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:30px;
+}
+
+.list-block-first {
+    position: absolute;
+    left: 45%;
+    top: -29px;
+    width: 400px;
+    list-style-type: none;
+}
+.list-block-second {
+    position: absolute;
+    top: 250px;
+    left: -35px;
+    width: 850px;
+    list-style-type: none;
+}
